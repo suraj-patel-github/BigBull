@@ -16,6 +16,7 @@ import Prediction from './routes/Dashboard/Prediction'
 
 function App() {
   return (
+    <>
     <div>
       <Router>
         <AuthProvider>
@@ -37,6 +38,8 @@ function App() {
         </AuthProvider>
       </Router>
     </div>
+    </>
+    
   )
 }
 
