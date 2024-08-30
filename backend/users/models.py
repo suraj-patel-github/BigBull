@@ -12,7 +12,7 @@ class User(AbstractUser):
 
     username = None
 
-    USERNAME_FIELD = 'email'
+    USERNAME_FIELD = 'gmail'
     REQUIRED_FIELDS = []
 
     class Meta:
