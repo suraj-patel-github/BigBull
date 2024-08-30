@@ -10,6 +10,8 @@ It does not use any paid APIs to fetch stock details, instead the data is fetche
 For predicting the stock price, `LSTM(Long-Short Term Memory)` model is used that provided an accuracy of **60%** during testing.
 
 
+
+
 ## Features
 
 1. **Trading** - The application provides virtual currency inside the app, which a user can use to buy the stocks at their current market price. 
